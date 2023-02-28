@@ -44,3 +44,8 @@ Albumin and globulin are two types of protein in your body. The total protein te
 Albumin
 Albumin and Globulin Ratio
 “Dataset” field is used to split the data into two sets (patient with liver disease, or no disease).
+
+
+
+#Sources
+https://www.analyticsvidhya.com/blog/2021/06/indian-patients-liver-dataset-analysis-and-classification/
